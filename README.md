@@ -1,1 +1,5 @@
-"# Email-Automation" 
+##################################################################################
+This is a template I will be using in the future to automate business newsletters.
+##################################################################################
+
+
